@@ -1,0 +1,1 @@
+S::9 Shanti border in style of 15th century illuminated manuscripts::6 medieval design, cosmic Sistine chapel, gouche::2.5 cinematic lighting, primary pastel colors, silkscreen, high resolution scan::2 --ar 4:6 --no human bodies --seed 1391 --no text
