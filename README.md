@@ -10,3 +10,4 @@ Our Proposed Method can be depicted in the following figure.
 # Train a generative model locally:
 In order to train and use a local model for our generations we used the [Dalle-pytorch](https://github.com/lucidrains/DALLE-pytorch) package. It is an implementation of [DALL-E](https://openai.com/blog/dall-e/) ([paper](https://arxiv.org/abs/2102.12092)), OpenAI's Text to Image Transformer, in Pytorch.
 
+Contact For inquiries or assistance, you can reach me at : teoaivalis@iit.demokritos.gr
