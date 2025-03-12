@@ -3,9 +3,6 @@
 
 **Keywords:** Observational Influence Analysis, Information Retrieval, Generative AI, Copyright Violation, Unlearning.
 
-# Workshop Acceptance  
-This work has been accepted for a poster presentation at the **2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025)**. 
-
 # Proposed Method
 
 Our Proposed Method can be depicted in the following figure.
@@ -15,4 +12,6 @@ Our Proposed Method can be depicted in the following figure.
 # Train a generative model locally:
 In order to train and use a local model for our generations we used the [Dalle-pytorch](https://github.com/lucidrains/DALLE-pytorch) package. It is an implementation of [DALL-E](https://openai.com/blog/dall-e/) ([paper](https://arxiv.org/abs/2102.12092)), OpenAI's Text to Image Transformer, in Pytorch.
 -->
+This work has been accepted for a poster presentation at the **2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025)**. 
+
 Contact For inquiries or assistance, you can reach me at : teoaivalis@iit.demokritos.gr
