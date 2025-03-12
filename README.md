@@ -4,7 +4,7 @@
 **Keywords:** Observational Influence Analysis, Information Retrieval, Generative AI, Copyright Violation, Unlearning.
 
 # Workshop Acceptance  
-This work has been accepted for presentation at the 2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025). We are excited to contribute to this discussion on the challenges of data influence in generative AI.
+This work has been accepted for a poster presentation at the 2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025). We are excited to contribute to this discussion on the challenges of data influence in generative AI.
 
 # Proposed Method
 
