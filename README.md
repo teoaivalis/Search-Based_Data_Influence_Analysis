@@ -6,10 +6,13 @@
 # Workshop Acceptance  
 This work has been accepted for presentation at the 2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025). We are excited to contribute to this discussion on the challenges of data influence in generative AI.
 
+# Proposed Method
+
 Our Proposed Method can be depicted in the following figure.
 ![Proposed Method](proposed_method.png)
 
+<!--
 # Train a generative model locally:
 In order to train and use a local model for our generations we used the [Dalle-pytorch](https://github.com/lucidrains/DALLE-pytorch) package. It is an implementation of [DALL-E](https://openai.com/blog/dall-e/) ([paper](https://arxiv.org/abs/2102.12092)), OpenAI's Text to Image Transformer, in Pytorch.
-
+-->
 Contact For inquiries or assistance, you can reach me at : teoaivalis@iit.demokritos.gr
